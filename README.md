@@ -1,1 +1,1 @@
-# becg-international
+# BeCG-International
