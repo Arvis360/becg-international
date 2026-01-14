@@ -119,3 +119,26 @@ body {
     max-width: none;
 }
 img { max-width: 100%; }
+.site-footer {
+    background-color: #0b3a57;
+    color: #ffffff;
+    margin-top: 60px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 30px 20px;
+    font-size: 0.9rem;
+}
+
+.footer-block {
+    max-width: 320px;
+    line-height: 1.6;
+}
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+    }
+}
