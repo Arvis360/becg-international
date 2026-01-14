@@ -45,3 +45,15 @@ footer {
     padding: 20px;
     font-size: 14px;
 }
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    border-radius: 6px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto 15px;
+}
