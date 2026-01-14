@@ -142,3 +142,32 @@ img { max-width: 100%; }
         flex-direction: column;
     }
 }
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+main h1 {
+    margin-bottom: 30px;
+}
+
+main h2 {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+main p {
+    margin-bottom: 18px;
+}
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 30px;
+}
+
+article:last-child {
+    border-bottom: none;
+}
+h1, h2 {
+    color: #0b3a57;
+}
