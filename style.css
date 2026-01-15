@@ -171,3 +171,27 @@ article:last-child {
 h1, h2 {
     color: #0b3a57;
 }
+/* HERO – STYLE CABINET INTERNATIONAL */
+
+.hero {
+    background-color: #0b3a57;
+    color: #ffffff;
+    padding: 120px 0;
+}
+
+.hero-content {
+    max-width: 900px;
+}
+
+.hero h1 {
+    font-size: 2.6rem;
+    line-height: 1.25;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.hero-subtitle {
+    font-size: 1.1rem;
+    max-width: 700px;
+    opacity: 0.9;
+}
