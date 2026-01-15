@@ -196,3 +196,9 @@ h1, h2 {
     max-width: 620px;
     opacity: 0.85;
 }
+.hero-divider {
+    width: 60px;
+    height: 2px;
+    background-color: rgba(255,255,255,0.4);
+    margin-top: 40px;
+}
